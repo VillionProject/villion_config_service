@@ -10,4 +10,4 @@ spring:
     config:
       server:
         native:
-          search-locations: file:///Users/lsi66/Desktop/VillionProject/villion_config_repo
+          search-locations: file:///Users/lsi66/Desktop/VillionProject/villion_config_repo # TODO git으로 옮기기
